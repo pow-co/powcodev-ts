@@ -4,6 +4,10 @@ powcodev-ts
 
 ## Table of contents
 
+### Namespaces
+
+- [scrypt](modules/scrypt.md)
+
 ### Classes
 
 - [Bid](classes/Bid.md)
