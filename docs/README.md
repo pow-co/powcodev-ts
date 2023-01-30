@@ -1,6 +1,6 @@
-powcodev-ts
+powcodev
 
-# powcodev-ts
+# powcodev
 
 ## Table of contents
 

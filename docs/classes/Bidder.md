@@ -1,4 +1,4 @@
-[powcodev-ts](../README.md) / Bidder
+[powcodev](../README.md) / Bidder
 
 # Class: Bidder
 

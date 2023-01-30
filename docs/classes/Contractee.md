@@ -1,4 +1,4 @@
-[powcodev-ts](../README.md) / Contractee
+[powcodev](../README.md) / Contractee
 
 # Class: Contractee
 

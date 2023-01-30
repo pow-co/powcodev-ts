@@ -1,4 +1,4 @@
-[powcodev-ts](../README.md) / Contractor
+[powcodev](../README.md) / Contractor
 
 # Class: Contractor
 

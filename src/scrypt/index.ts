@@ -5,5 +5,7 @@ const contracts = {
   GithubIssueWorkContract
 }
 
+export { GithubIssueWorkContract }
+
 export { contracts }
 

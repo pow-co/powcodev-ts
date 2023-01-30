@@ -1,6 +1,6 @@
 {
   "name": "powcodev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Marketplace for Bidding On & Completing Issues",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
