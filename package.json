@@ -1,0 +1,33 @@
+{
+  "name": "powcodev-ts",
+  "version": "0.0.1",
+  "description": "Marketplace for Bidding On & Completing Issues",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/esm/index.d.ts",
+  "scripts": {
+    "test": "jest --config jestconfig.json",
+    "prepublish": "tsc",
+    "docs": "typedoc",
+    "build": "yarn build:esm && yarn build:cjs",
+    "build:esm": "tsc",
+    "build:cjs": "tsc --module commonjs --outDir dist/cjs",
+    "lint": "eslint \"{**/*,*}.{js,ts,jsx,tsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pow-co/powcodev-ts.git"
+  },
+  "author": "powco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pow-co/powcodev-ts/issues"
+  },
+  "homepage": "https://github.com/pow-co/powcodev-ts#readme",
+  "devDependencies": {
+    "scrypt-ts": "^0.1.5-beta.17",
+    "ts-node": "^10.9.1",
+    "typedoc": "^0.23.24",
+    "typedoc-plugin-markdown": "^3.14.0"
+  }
+}
